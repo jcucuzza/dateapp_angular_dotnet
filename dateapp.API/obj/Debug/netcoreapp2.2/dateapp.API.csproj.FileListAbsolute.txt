@@ -1,0 +1,14 @@
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\bin\Debug\netcoreapp2.2\dateapp.API.deps.json
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\bin\Debug\netcoreapp2.2\dateapp.API.runtimeconfig.json
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\bin\Debug\netcoreapp2.2\dateapp.API.runtimeconfig.dev.json
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\bin\Debug\netcoreapp2.2\dateapp.API.dll
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\bin\Debug\netcoreapp2.2\dateapp.API.pdb
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.csprojAssemblyReference.cache
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.RazorAssemblyInfo.cache
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.RazorAssemblyInfo.cs
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.AssemblyInfoInputs.cache
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.AssemblyInfo.cs
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.dll
+C:\Users\Jonathan-Razer\Documents\DateApp\dateapp.API\obj\Debug\netcoreapp2.2\dateapp.API.pdb
