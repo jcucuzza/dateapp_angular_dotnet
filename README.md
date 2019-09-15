@@ -2,8 +2,9 @@
 ------
 Current stage dev log:
 
-Authentication- creating a user model, authentication controller, tokens, and middleware and stuffs
-~~create a skeleton template to get a functional http responses to and from .Net and Angular.~~
+- Authentication- creating a user model, authentication controller, tokens, and middleware and stuffs.
+
+- ~~create a skeleton template to get a functional http responses to and from .Net and Angular.~~
 
 -----
 
