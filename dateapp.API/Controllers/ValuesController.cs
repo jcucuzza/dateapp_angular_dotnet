@@ -32,8 +32,7 @@ namespace dateapp.API.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetValue(int id)
         {
-            //x represent val returned
-            var value = _context.Values.FirstOrDefault(x => x.Id == id);
+            var value = await _context.Values.ToListAsync();
             return Ok(value);
         }
 
