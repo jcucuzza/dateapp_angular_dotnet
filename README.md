@@ -1,8 +1,10 @@
 ## Date Apes ##
 ------
-Current stage dev log:
+Dev log:
 
-- Authentication- creating a user model, authentication controller, tokens, and middleware and stuffs.
+- Develop Client side login and registration within Angular 8.
+
+- ~~Authentication- creating a user model, authentication controller, tokens, and middleware and stuffs.~~
 
 - ~~create a skeleton template to get a functional http responses to and from .Net and Angular.~~
 
