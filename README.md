@@ -47,6 +47,6 @@ $ ng serve
 Start .Net api
 
 ```sh
-$ cd ../dateapp-spa
+$ cd ../dateapp.api
 $ dotnet watch run
 ```
