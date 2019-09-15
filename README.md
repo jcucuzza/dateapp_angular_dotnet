@@ -1,12 +1,24 @@
-# dateapp
+## Date Apes ##
 ------
 Current stage dev log:
-create a skeleton template to get a functional http responses to and from .Net and Angular.
+
+Authentication- creating a user model, authentication controller, tokens, and middleware and stuffs
+~~create a skeleton template to get a functional http responses to and from .Net and Angular.~~
+
+-----
 
 Current Folder structure:
-dateapp.api = .Net (back-end)
-dateapp-spa = Angular 8 (front-end)
 
+| Folder | Description |
+| ------ | ------ |
+| dateapp.api  | .Net [back-end]|
+| dateapp-spa |  Angular 8 [front-end] |
+
+----
 Currently running on seperate domains:
-dateapp.api on port 5000
-dateapp-spa on port 4200
+
+
+| Folder | Port |
+| ------ | ------ |
+| dateapp.api  | 5000 |
+| dateapp-spa |  4200 |
