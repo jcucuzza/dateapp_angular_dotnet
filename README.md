@@ -1,5 +1,5 @@
 # dateapp
-
+------
 Current stage dev log:
 create a skeleton template to get a functional http responses to and from .Net and Angular.
 
