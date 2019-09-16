@@ -20,7 +20,8 @@ namespace dateapp.API.Controllers
             _context = context;
 
         }
-        // GET api/values 
+        // we want to change this back when we're done testing out stuffs
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetValues()
         {
